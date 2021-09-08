@@ -1,39 +1,39 @@
-import Pepperoni from "../assets/crew1.jpg";
-import Margherita from "../assets/crew2.jpg";
-import PedroTechSpecial from "../assets/crew3.jpg";
-import Vegan from "../assets/crew4.jpg";
-import Pineapple from "../assets/crew5.jpg";
-import Expensive from "../assets/crew6.jpg";
+import Crew1 from "../assets/crew1.jpg";
+import Crew2 from "../assets/crew2.jpg";
+import Crew3 from "../assets/crew3.jpg";
+import Crew4 from "../assets/crew4.jpg";
+import Crew5 from "../assets/crew5.jpg";
+import Crew6 from "../assets/crew6.jpg";
 
 export const MenuList = [
   {
-    name: "Pepperoni Pizza",
-    image: Pepperoni,
-    price: 15.99,
+    name: "Open Water Diver",
+    image: Crew1,
+    price: 160.0,
   },
   {
-    name: "Margherita Pizza",
-    image: Margherita,
-    price: 11.99,
+    name: "Advance Open Water Diver",
+    image: Crew2,
+    price: 119.0,
   },
   {
-    name: "PedroTech Special Pizza",
-    image: PedroTechSpecial,
-    price: 256.53,
+    name: "Rescue Diver",
+    image: Crew3,
+    price: 256.0,
   },
   {
-    name: "Vegan Pizza",
-    image: Vegan,
-    price: 17.99,
+    name: "Enriched Air Diver",
+    image: Crew4,
+    price: 220.0,
   },
   {
-    name: "Pineapple Pizza",
-    image: Pineapple,
-    price: 4.99,
+    name: "Refresher Program",
+    image: Crew5,
+    price: 99.0,
   },
   {
-    name: "Very Expensive Pizza",
-    image: Expensive,
-    price: 1997.99,
+    name: "Dive Theory",
+    image: Crew6,
+    price: 160.0,
   },
 ];
