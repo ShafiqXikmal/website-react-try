@@ -1,6 +1,6 @@
 const React = require("react");
 const { render } = require("react-dom");
-const App = require("./components/app");
+const App = require("./app");
 
 let target = document.querySelector("#app");
 
