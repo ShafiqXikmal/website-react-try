@@ -5,11 +5,8 @@ import "../styles/home.css";
 
 function Home() {
   return (
-    <div className="home">
-      <div
-        className="headerContainer"
-        style={{ backgroundImage: `url(${landingImage})` }}
-      >
+    <div className="home" style={{ backgroundImage: `url(${landingImage})` }}>
+      <div className="headerContainer">
         <h1>Orca Dive Team</h1>
         <p>Get Tanked. Go Diving</p>
         <Link to="/about">
