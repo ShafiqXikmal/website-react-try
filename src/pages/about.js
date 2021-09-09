@@ -1,5 +1,5 @@
 import React from "react";
-import multipleLogo from "../assets/crewLogo.jpg";
+import multipleLogo from "../assets/about.jpg";
 import "../styles/about.css";
 
 function About() {
