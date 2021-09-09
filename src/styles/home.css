@@ -83,13 +83,13 @@
   }
 
   .headerContainer button {
-    background-color: white;
-    color: #121619;
+    background-color: red;
+    color: white;
     margin-bottom: 30px;
   }
 
   .headerContainer button:hover {
-    background-color: rgb(225, 225, 225);
-    color: #121619;
+    background-color: black(225, 225, 225);
+    color: white;
   }
 }
